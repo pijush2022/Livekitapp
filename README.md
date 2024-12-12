@@ -13,7 +13,7 @@ It uses:
 ## Run the assistant
 
 1. `python -m venv .venv`
-2. `source .venv/bin/activate`
+2. `sources .venv/Scripts/activate`
 3. `pip install -r requirements.txt`
 4. `cp .env.example .env`
 5. add values for keys in `.env`
