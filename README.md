@@ -20,7 +20,8 @@ It uses:
 6. `python main.py dev`
 
 
-'The Api Keys are as Follows :-'
+The api keys are as follows:-
+
 LIVEKIT_URL="wss://radar-assisstant-qxnpthve.livekit.cloud"
 LIVEKIT_API_KEY="API6sPifj8SQgEt"
 LIVEKIT_API_SECRET="ZjV2o6xhmrDwDsbuPmUFlfVKIQawhfzsKlwfOjU3DKeB"
@@ -28,7 +29,8 @@ LIVEKIT_API_SECRET="ZjV2o6xhmrDwDsbuPmUFlfVKIQawhfzsKlwfOjU3DKeB"
 DEEPGRAM_API_KEY="93e797d9a10fc8ffb261c5205eb7cc595e306ba2"
 CARTESIA_API_KEY="sk_car_sP-XwIY5BgeWhLSNQhoIA"
 CEREBRAS_API_KEY="csk-wwe56rxmwn5chh6kp5h2hmv4dej2wth48rt9ex344cpywm3h"
-ELEVEN_API_KEY = "sk_c2e10f3205f8ca25371c58d1e1cb66b49d2326e2dd90ae7d"
+ELEVEN_API_KEY="sk_c2e10f3205f8ca25371c58d1e1cb66b49d2326e2dd90ae7d"
+
 
 ## Run a client
 
