@@ -1,7 +1,9 @@
-'First open Livekit sandbox from this link :-  "https://cloud.livekit.io/projects/p_/sandbox"'
-'Then from the profile create a new project'
-'Go to the setting on the sandbox and create a Key - API Key,Secret Key and Url'
-'And then follow the code '
+#Instruction Details:-
+
+`First open Livekit sandbox from this link :-  "https://cloud.livekit.io/projects/p_/sandbox"`
+`Then from the profile create a new project`
+`Go to the setting on the sandbox and create a Key - API Key,Secret Key and Url`
+`And then follow the code `
 
 
 
@@ -27,15 +29,15 @@ It uses:
 6. `python main.py dev`
 
 
-'The api keys are as follows:-'
+#The api keys are as follows:-
 
-'LIVEKIT_URL="wss://radar-assisstant-qxnpthve.livekit.cloud"'
-'LIVEKIT_API_KEY="API6sPifj8SQgEt"'
-'LIVEKIT_API_SECRET="ZjV2o6xhmrDwDsbuPmUFlfVKIQawhfzsKlwfOjU3DKeB"'
-'DEEPGRAM_API_KEY="93e797d9a10fc8ffb261c5205eb7cc595e306ba2"'
-'CARTESIA_API_KEY="sk_car_sP-XwIY5BgeWhLSNQhoIA"'
-'CEREBRAS_API_KEY="csk-wwe56rxmwn5chh6kp5h2hmv4dej2wth48rt9ex344cpywm3h"'
-'ELEVEN_API_KEY = "sk_c2e10f3205f8ca25371c58d1e1cb66b49d2326e2dd90ae7d"'
+`LIVEKIT_URL="wss://radar-assisstant-qxnpthve.livekit.cloud"`
+`LIVEKIT_API_KEY="API6sPifj8SQgEt"`
+`LIVEKIT_API_SECRET="ZjV2o6xhmrDwDsbuPmUFlfVKIQawhfzsKlwfOjU3DKeB"`
+`DEEPGRAM_API_KEY="93e797d9a10fc8ffb261c5205eb7cc595e306ba2"`
+`CARTESIA_API_KEY="sk_car_sP-XwIY5BgeWhLSNQhoIA"`
+`CEREBRAS_API_KEY="csk-wwe56rxmwn5chh6kp5h2hmv4dej2wth48rt9ex344cpywm3h"`
+`ELEVEN_API_KEY = "sk_c2e10f3205f8ca25371c58d1e1cb66b49d2326e2dd90ae7d"`
 
 ## Run a client
 
